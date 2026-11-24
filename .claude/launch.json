@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "knock-prototype",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["react-router", "dev", "--port", "5178"],
+      "port": 5178
+    }
+  ]
+}
